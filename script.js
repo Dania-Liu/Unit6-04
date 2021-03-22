@@ -1,4 +1,4 @@
-// Sets defaut values
+// Sets default values
 let b2 = 0
 let b1 = 0
 let h = 0
